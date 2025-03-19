@@ -1,0 +1,20 @@
+h1 {
+    background-color: blue;
+}
+body{
+    background-color: aqua;
+    text-align: center;
+}
+textinput {
+ background-color: blue;
+}
+  input {
+    background-color: rgb(3, 46, 46);
+    text-align: center;
+    
+  }
+  button {
+    background-color: beige;
+    text-align: center;
+    
+  }
